@@ -1,4 +1,3 @@
-# html6
 
 <h1> Bir Web Sitesi Çalışması</h1>
 
